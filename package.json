@@ -13,6 +13,8 @@
   "dependencies": {
     "@langchain/langgraph": "^1.4.7",
     "@langchain/openai": "^1.5.3",
-    "langchain": "^1.5.2"
+    "@langchain/tavily": "^1.2.0",
+    "langchain": "^1.5.2",
+    "zod": "^4.4.3"
   }
 }
